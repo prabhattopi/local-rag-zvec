@@ -38,8 +38,8 @@ npm install
 
 2. Create a `.env.local` file and add your API keys:
 ```env
-NEXT_PUBLIC_GEMINI_API_KEY=your_key
-NEXT_PUBLIC_OPENAI_API_KEY=your_key
+GEMINI_API_KEY=your_key
+OPENAI_API_KEY=your_key
 # Add other keys as needed
 ```
 
